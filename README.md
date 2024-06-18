@@ -7,7 +7,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Tech-Priest1&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Tech-Priest1&theme=dark&hide-frame=true&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Tech-Priest1&theme=dark&hide-frame=false&no-bg=true&margin-w=4)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ---
