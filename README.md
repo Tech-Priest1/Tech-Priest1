@@ -12,6 +12,6 @@
 
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Tech-Priest1&label=Profile%20Views&color=1&icon=1&pretty=true)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Tech-Priest1&label=Profile%20Views&color=3&icon=6&pretty=true)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
