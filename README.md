@@ -5,7 +5,7 @@
 #  GitHub Stats:
 ![Tech-Priest1's Stats](https://github-readme-stats.vercel.app/api?username=Tech-Priest1&theme=dracula&show_icons=true&hide_border=true&count_private=true)
 ![Tech-Priest1's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Tech-Priest1&theme=dracula&hide_border=true)
-
+![Tech-Priest1's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tech-Priest1&size_weight=0.5&count_weight=0.5_theme=dracula)
 ![Tech-Priest1's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tech-Priest1&theme=dracula&show_icons=true&hide_border=true&layout=compact)
 
 ## GitHub Trophies
