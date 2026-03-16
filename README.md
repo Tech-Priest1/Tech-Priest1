@@ -23,15 +23,15 @@ Information Systems Student • Web Developer • Backend Enthusiast
 <a href="https://www.linkedin.com/in/petrus-ermerson-a35b3b278/">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="45"/>
 </a>
-
+&nbsp;&nbsp;&nbsp;
 <a href="mailto:petrus260@hotmail.com">
 <img src="https://cdn.simpleicons.org/gmail/EA4335" height="50"/>
 </a>
-
+&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/Tech-Priest1">
 <img src="https://skillicons.dev/icons?i=github" height="45"/>
 </a>
-
+&nbsp;&nbsp;&nbsp;
 </p>
 
 <p align="center">
