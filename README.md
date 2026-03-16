@@ -40,7 +40,7 @@ Information Systems Student • Web Developer • Backend Enthusiast
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tech-Priest1&theme=midnight-purple&hide_border=true&layout=compact" width="60%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tech-Priest1&theme=midnight-purple&hide_border=true&layout=compact" width="55%" />
 </p>
 
 ---
