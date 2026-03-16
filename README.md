@@ -35,13 +35,12 @@ Information Systems Student • Web Developer • Backend Enthusiast
 ## 📊 GitHub Stats
 
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Tech-Priest1&theme=midnight-purple&show_icons=true&hide_border=true" width="45%" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Tech-Priest1&theme=midnight-purple&hide_border=true" width="48%" />
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Tech-Priest1&theme=midnight-purple&show_icons=true&hide_border=true"/>
-
-<img src="https://nirzak-streak-stats.vercel.app/?user=Tech-Priest1&theme=midnight-purple&hide_border=true"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tech-Priest1&theme=midnight-purple&hide_border=true&layout=compact"/>
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tech-Priest1&theme=midnight-purple&hide_border=true&layout=compact" width="60%" />
 </p>
 
 ---
