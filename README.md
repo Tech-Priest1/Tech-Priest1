@@ -20,7 +20,7 @@ Information Systems Student • Web Developer • Backend Enthusiast
 
 <p align="center">
 
-<a href="mailto:petrus260@hotmail.com">
+<a href="mailto:Tech-Priest1@outlook.com">
 <img src="https://cdn.simpleicons.org/gmail/EA4335" height="50"/>
 </a>
 &nbsp;&nbsp;&nbsp;
