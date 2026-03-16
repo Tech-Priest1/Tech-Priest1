@@ -19,17 +19,19 @@ Information Systems Student • Web Developer • Backend Enthusiast
 ## 🌐 Socials
 
 <p align="center">
+
 <a href="https://www.linkedin.com/in/petrus-ermerson-a35b3b278/">
-<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" height="35"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="45"/>
 </a>
-&nbsp;&nbsp;&nbsp;
+
 <a href="mailto:petrus260@hotmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" height="35"/>
+<img src="https://cdn.simpleicons.org/gmail/EA4335" height="50"/>
 </a>
-&nbsp;&nbsp;&nbsp;
-<a><a href="https://github.com/Tech-Priest1">
-<img src="https://img.shields.io/badge/GitHub-000000?logo=github&logoColor=white" height="35"/>
+
+<a href="https://github.com/Tech-Priest1">
+<img src="https://skillicons.dev/icons?i=github" height="45"/>
 </a>
+
 </p>
 
 <p align="center">
@@ -70,4 +72,6 @@ Information Systems Student • Web Developer • Backend Enthusiast
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=8A2BE2&height=2"/>
 </p>
-
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Tech-Priest1&theme=tokyo-night&hide_border=true"/>
+</p>
