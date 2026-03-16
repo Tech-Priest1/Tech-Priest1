@@ -53,8 +53,4 @@ Information Systems Student • Web Developer • Backend Enthusiast
 </p>
 
 ---
-## 🚀 Featured Project
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Tech-Priest1&repo=ERBSMap&theme=midnight-purple&hide_border=true" width="500"/>
-</p>
