@@ -43,6 +43,7 @@ Information Systems Student • Web Developer • Backend Enthusiast
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=8A2BE2&height=2"/>
 </p>
+
 ## 📊 GitHub Overview & Stats
 
 <p align="center">
