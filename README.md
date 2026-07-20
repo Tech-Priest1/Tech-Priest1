@@ -43,34 +43,18 @@ Information Systems Student • Web Developer • Backend Enthusiast
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=8A2BE2&height=2"/>
 </p>
-## 📊 GitHub Stats
+## 📊 GitHub Overview & Stats
 
 <p align="center">
-  <!-- Estatísticas Gerais (Usando a instância alternativa estável) -->
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Tech-Priest1&theme=midnight-purple&show_icons=true&hide_border=true&v=2" width="45%" />
-  
-  <!-- Streak Stats (Usando o link oficial atualizado) -->
-  <img src="https://streak-stats.demolab.com/?user=Tech-Priest1&theme=midnight-purple&hide_border=true&v=2" width="48%" />
+  <!-- O seu infográfico unificado local do Tokyo Night que NUNCA MAIS vai quebrar -->
+  <img src="./github-metrics.svg" width="100%" />
 </p>
 
 <p align="center">
-  <!-- Top Idiomas (Usando a instância alternativa estável) -->
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Tech-Priest1&theme=midnight-purple&hide_border=true&layout=compact&v=2" width="55%" />
-</p>
-
-<!-- Divisor alternativo usando uma tag HR estilizada caso o capsule render falhe -->
-<hr style="border: 1px solid #8A2BE2;">
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <!-- Trophies (Instância com correção de cache do GitHub) -->
-  <img src="https://github-profile-trophy.vercel.app/?username=Tech-Priest1&theme=dracula&no-frame=true&no-bg=true&margin-w=4"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=8A2BE2&height=2"/>
 </p>
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=8A2BE2&height=2"/>
-</p>
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Tech-Priest1&theme=tokyo-night&hide_border=true"/>
+  <!-- Mantendo seu gráfico de atividade que usa o tema Tokyo Night -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tech-Priest1&theme=tokyo-night&hide_border=true"/>
 </p>
