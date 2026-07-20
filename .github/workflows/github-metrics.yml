@@ -15,14 +15,14 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v4
 
-      - name: Generate Tokyo Night Metrics
+      - name: Generate Purple Tokyo Night Metrics
         uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           filename: github-metrics.svg
           
-          # 👇 MUDANÇA: Organiza o layout em colunas para evitar o corte vertical
           config_display: columns
+          config_padding: 0, 8 + 15%
           
           base: header, activity, community, repositories
           plugin_languages: yes
@@ -39,9 +39,27 @@ jobs:
           
           config_timezone: America/Sao_Paulo
 
+          # 👇 Customização completa mudando o azul do Tokyo Night para Roxo Neon (#bb9af3)
           extras_css: |
             svg { background: #1a1b26 !important; }
-            h2, h3, .g-title, .achievement-title { color: #7aa2f7 !important; }
-            .field .icon, .stat .icon { color: #bb9af3 !important; }
+            
+            /* Títulos principais agora em Roxo */
+            h2, h3, .g-title, .achievement-title { color: #bb9af3 !important; }
+            
+            /* Ícones e pequenos detalhes */
+            .field .icon, .stat .icon { color: #a9b1d6 !important; }
             text { fill: #a9b1d6 !important; }
+            
+            /* Ajuste do calendário */
             .calendar-day { fill: #24283b !important; }
+            .isocalendar h2 {
+              margin-bottom: 15px !important;
+              display: block !important;
+              clear: both !important;
+            }
+            
+            /* Força os cubos de commit ativos a ficarem roxos/purpúreos */
+            .isocalendar .fill-fill { fill: #bb9af3 !important; }
+            
+            /* Força as linhas de links/ênfase a usarem o roxo */
+            .bold { color: #bb9af3 !important; }
