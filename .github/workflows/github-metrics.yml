@@ -18,7 +18,7 @@ jobs:
       - name: Generate Purple Tokyo Night Metrics
         uses: lowlighter/metrics@latest
         with:
-          token: ${{ secrets.METRICS_TOKEN }}
+          token: ${{ github.token }}
           filename: github-metrics.svg
           
           config_display: columns
